@@ -1,0 +1,21 @@
+A primeira coluna mostra as permissões de acesso dos subdiretórios e arquivos.
+
+    O primeiro caractere diz qual é o tipo do objeto:
+        – para arquivo comum;
+        b para dispositivos de bloco (oferecem grandes quantidades de dados de cada vez).
+        c para dispositivo de caracteres (oferecem dados de um caractere de cada vez);
+        d para diretório;
+        l para link simbólico;
+        p para FIFO ou Named Pipe;
+        s para socket mapeado em arquivo;
+    Os três caracteres seguintes mostram as permissões do dono (permissão de leitura e escrita).
+    O quinto, o sexto e o sétimo caracteres dizem quais as permissões do grupo (permissão de leitura e escrita).
+    Os três últimos caracteres especificam as permissões dos outros (permissão de leitura).
+
+https://www.google.com/search?q=permiss%C3%B5es+pastas+e+arquivos+linux&client=ubuntu&hs=3Us&channel=fs&sxsrf=ALiCzsYCeCuw38809Hp9S-MDQ-WM66dZJg%3A1653555148159&ei=zD-PYpeqCfK65OUPjpGp0A0&ved=0ahUKEwiXwOP55Pz3AhVyHbkGHY5ICtoQ4dUDCA0&uact=5&oq=permiss%C3%B5es+pastas+e+arquivos+linux&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QCDoHCAAQRxCwAzoHCAAQsAMQQzoECCMQJzoFCAAQgAQ6BggAEB4QBzoICAAQHhAPEAc6CAgAEB4QCBAHOggIABAeEAcQBToICAAQHhAPEA06BAgAEB46BggAEB4QBUoECEEYAEoECEYYAFDaCFj9KWDaK2gBcAF4AIABrwGIAeIQkgEEMC4xOJgBAKABAcgBCsABAQ&sclient=gws-wiz
+
+
+https://canaltech.com.br/linux/entendendo-e-configurando-permissoes-de-arquivos-e-pastas-no-linux/
+
+
+https://guialinux.uniriotec.br/permissao-de-acesso/
