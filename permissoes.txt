@@ -1,3 +1,15 @@
+=============================================================================================
+
+TITULO..: Permissões no Linux
+
+CONTEUDO: 
+
+DATA....: 26/05/2022 - 13:20hs 
+
+AUTOR...: Robison Joel - http://robison-joel.github.io
+
+=============================================================================================
+
 A primeira coluna mostra as permissões de acesso dos subdiretórios e arquivos.
 
     O primeiro caractere diz qual é o tipo do objeto:
