@@ -1,99 +1,187 @@
 
+<a id="topo"></a>
+# Comandos 
+
+* [Holywood](#hollywood)
+* [Cmatrix](#cmatrix)
+* [Fortune](#fortune)
+* [Cowsay](#cowsay)
+* [Xcowsay](#xcowsay)
+* [Sl](#essieli)
+* [Imagemagick](#imagemagick)
+* [Blinkenlights](#blinkenlights)
+* [Yes](#yes)
+* [Rev](#rev)
+* [Speak](#speak)
+* [Figlet](#figlet)
+* [Toilet](#toilet)
+
+<a id="hollywood"></a>
+
 ### Holywood
 
-O que faz?
+#### 1. O que faz?
+
 Transforma seu coputador em um computador hacker.
 
-1. Instalar
+#### 2. Instalação
 
-> *`sudo apt-get install hollywood`*
+*`sudo apt-get install hollywood`*
 
-Executar:
+#### 3. Executar
 
-> *`hollywood`*
+`hollywood`
+
+[volta ao topo](#topo)
 
 ----
 
-### Cmatrix
+<a id="cmatrix"></a>
 
-1. O que faz?
+## Cmatrix
+
+##### 1. O que faz?
+
 Esteja pronto para sentir como se estivesse na própria cabine do Nabucodonosor.
 
-2. Instalar
+##### 2. Instalar
 
-> *`sudo apt-get install cmatrix`*
+*`sudo apt-get install cmatrix`*
 
-3. Para parar cmatrix
+##### 3. Executar
 
-> *`Ctrl + C`*
+`cmatrix`
 
-4. Outras opções
+##### 4. Para parar cmatrix
 
- cmatrix  --help
+*`Ctrl + C`*
 
- Usage: cmatrix -[abBfhlsVx] [-u delay] [-C color]
- -a: Asynchronous scroll
- -b: Bold characters on
- -B: All bold characters (overrides -b)
- -f: Force the linux $TERM type to be on
- -l: Linux mode (uses matrix console font)
- -o: Use old-style scrolling
- -h: Print usage and exit
- -n: No bold characters (overrides -b and -B, default)
- -s: "Screensaver" mode, exits on first keystroke
- -x: X window mode, use if your xterm is using mtx.pcf
- -V: Print version information and exit
- -u delay (0 - 10, default 4): Screen update delay
- -C [color]: Use this color for matrix (default green)
+##### 5. Outras opções
+
+ `Sintaxe: cmatrix -[abBfhlsVx] [-u delay] [-C color]`
+
+* -a: Asynchronous scroll
+
+* -b: Bold characters on
+
+* -B: All bold characters (overrides* -b)
+
+* -f: Force the linux $TERM type to be on
+
+* -l: Linux mode (uses matrix console font)
+
+* -o: Use old-style scrolling
+
+* -h: Print usage and exit
+
+* -n: No bold characters (overrides -b and -B, default)
+
+* -s: "Screensaver" mode, exits on first keystroke
+
+* -x: X window mode, use if your xterm is using mtx.pcf
+
+* -V: Print version information and exit
+
+* -u delay (0 - 10, default 4): Screen update delay
+
+* -C [color]: Use this color for matrix (default green)
+  
+* --help: Acessa a ajuda do comando.
+
+[volta ao topo](#topo)
 
 ----
 
-### Fortune
+<a id="fortune"></a>
 
-> *`sudo apt-get install fortune`*
+## Fortune
 
-### Cowsay
+#### 1. O que faz?
 
-> *`sudo apt-get install cowsay`*
+Traz uma frase de incentivo (em inglês).
 
-### Xcowsay
+#### 2. Instalação
 
-> *`sudo apt-get install xcowsay`*
+*`sudo apt-get install fortune`*
 
-> *`sudo apt-get install sl`*
+#### 3. Executar
 
-> *`sudo apt-get install aview imagemagick`*
+`fortune`
 
-> *`telnet towel.blinkenlights.nl`*
+----
 
-> *`yes`*
+## Cowsay
 
-> *`rev`*
+*`sudo apt-get install cowsay`*
 
-> *`sudo apt-get install espeak`*
+----
 
-> *`sudo apt-get install figlet`*
+## Xcowsay
 
-> *`toilet "Hello Mundo"`*
+*`sudo apt-get install xcowsay`*
 
-> *`toilet --gay "Te amo"`*
+----
 
-> *`toilet --metal "Hello Mundo"`*
+## SL
 
-> *`sudo add-apt-repository ppa:mborgerson/xemu`*
+*`sudo apt-get install sl`*
 
-> *`sudo apt update`*
+----
 
-> *`sudo apt install xemu`*
+## imagemagick
+
+*`sudo apt-get install aview imagemagick`*
+
+----
+
+## blinkenlights
+
+*`telnet towel.blinkenlights.nl`*
+
+----
+
+## Yes
+
+*`yes`*
+
+----
+
+## Rev
+
+*`rev`*
+
+----
+
+## Speak
+
+*`sudo apt-get install espeak`*
+
+----
+
+## Figlet
+
+*`sudo apt-get install figlet`*
+
+----
+
+## Toilet
+
+*`toilet "Hello Mundo"`*
+
+*`toilet --gay "Te amo"`*
+
+*`toilet --metal "Hello Mundo"`*
+
+----
 
 ## FONTES
 
-<http://www.dejano.comunidades.net/programas-engracados-para-o-terminal-linux>
+* <http://www.dejano.comunidades.net/programas-engracados-para-o-terminal-linux>
 
-<https://diolinux.com.br/sistemas-operacionais/7-comandos-do-terminal-que-fazem-coisas-incriveis-no-linux.html>
+* <https://diolinux.com.br/sistemas-operacionais/7-comandos-do-terminal-que-fazem-coisas-incriveis-no-linux.html>
 
-<https://sempreupdate.com.br/10-comandos-linux-interessantes-que-talvez-voce-nem-conhecia/>
+* <https://sempreupdate.com.br/10-comandos-linux-interessantes-que-talvez-voce-nem-conhecia/>
 
-<https://blog.betrybe.com/tecnologia/comandos-linux/>
+* <https://blog.betrybe.com/tecnologia/comandos-linux/>
 
-<https://canaltech.com.br/linux/11-comandos-divertidos-e-inuteis-para-usar-no-linux/>
+* <https://canaltech.com.br/linux/11-comandos-divertidos-e-inuteis-para-usar-no-linux/>
