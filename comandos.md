@@ -111,7 +111,6 @@ Traz uma frase de incentivo (em inglês).
 
 [volta ao topo](#topo)
 
----
 
 ## Cowsay
 
@@ -155,43 +154,122 @@ Escreva, ao lado do comando xcowsay, aquilo que vai aparecer no balãozinho da v
 
 ## SL
 
+
+#### 3.1 O que faz?
+
+Leva seu terminal para a beira de uma estrada de ferro. Cuidado! o trem vai passar.
+
+#### 3.2 Instalação
+
 *`sudo apt-get install sl`*
 
-----
+#### 3.3 Sintaxe
 
-## imagemagick
+Penas digite `sl`
 
-*`sudo apt-get install aview imagemagick`*
 
-----
+[volta ao topo](#topo)
 
-## blinkenlights
 
-*`telnet towel.blinkenlights.nl`*
+## Tree
 
-----
+#### 3.1 O que faz?
+
+Exibe o conteúdo da pasta atual em formato de árvore.
+
+#### 3.2 Instalação
+
+*`sudo apt-get install tree`*
+
+#### 3.3 Sintaxe
+
+Penas digite `tree`
+
+
+[volta ao topo](#topo)
+
+
 
 ## Yes
 
-*`yes`*
+#### 3.1 O que faz?
 
-----
+Repete algo no seu terminal.
+
+#### 3.2 Instalação
+
+*`sudo apt-get install yes`*
+
+#### 3.3 Sintaxe
+
+Digite o comando seguido daquilo que vai ser repitido no terminal.
+
+`yes frase a ser repitida`
+
+
+[volta ao topo](#topo)
+
 
 ## Rev
 
-*`rev`*
+#### 3.1 O que faz?
 
-----
+Reverte a sequ&ecirc;ncia de palavras ou frases .
+
+#### 3.2 Instalação
+
+não &eacute; necess&aacute;rio instalar.
+
+#### 3.3 Sintaxe
+
+Digite o comando *`rev`* + `enter`. Na linha abaixo, escreva aquilo que vai ser revertido e aperte `enter`, novamente.
+
+`rev` + `enter`
+
+
+[volta ao topo](#topo)
+
+
 
 ## Speak
 
+#### 3.1 O que faz?
+
+Faz o seu computador falar o que você escreve.
+
+#### 3.2 Instalação
+
 *`sudo apt-get install espeak`*
 
-----
+#### 3.3 Sintaxe
+
+Digite o comando seguido daquilo que vai ser falado. Ele fala somente uma palavra de cada vez.
+
+`espeak palavra a ser falada`
+
+
+[volta ao topo](#topo)
+
 
 ## Figlet
 
+#### 3.1 O que faz?
+
+Escreve seu texto de uma forma bem estilosa de Banner.
+
+#### 3.2 Instalação
+
 *`sudo apt-get install figlet`*
+
+#### 3.3 Sintaxe
+
+Digite o comando seguido daquilo que vai ser escrito em Banner.
+
+`figlet o que vai ser escrito`
+
+
+[volta ao topo](#topo)
+
 
 ----
 
@@ -203,7 +281,20 @@ Escreva, ao lado do comando xcowsay, aquilo que vai aparecer no balãozinho da v
 
 *`toilet --metal "Hello Mundo"`*
 
-----
+
+## Cal
+
+sudo apt install ncal
+
+
+## Aafire
+
+sudo apt install libaa-bin
+
+
+## BB
+
+sudo apt install bb
 
 ## FONTES
 
