@@ -130,7 +130,6 @@ Escreva, ao lado do comando cowsay, aquilo que vai aparecer no balãozinho da va
 
 [volta ao topo](#topo)
 
----
 
 ## Xcowsay
 
@@ -326,7 +325,7 @@ Mostra um fogueira no terminal.
 
 #### 3.2 Instalação
 
-*`sudo apt install libaa-bin`*
+*`sudo apt-get install libaa-bin`*
 
 #### 3.3 Sintaxe
 
@@ -339,7 +338,21 @@ Apenas digite *`aafire`*
 
 ## BB
 
-sudo apt install bb
+#### 3.1 O que faz?
+
+Mostra um filminho bem loko no terminal.
+
+#### 3.2 Instalação
+
+*`sudo apt-get install bb`*
+
+#### 3.3 Sintaxe
+
+Apenas digite *`bb`* e escolha se vai querer com m&uacute;sica (y) ou sem m&uacute;sica + `enter` e espere a magia acontecer.
+
+
+[volta ao topo](#topo)
+
 
 ## FONTES
 
