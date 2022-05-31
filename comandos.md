@@ -320,7 +320,21 @@ Apenas digite *`cal`*
 
 ## Aafire
 
-sudo apt install libaa-bin
+#### 3.1 O que faz?
+
+Mostra um fogueira no terminal.
+
+#### 3.2 Instalação
+
+*`sudo apt install libaa-bin`*
+
+#### 3.3 Sintaxe
+
+Apenas digite *`aafire`*
+
+
+[volta ao topo](#topo)
+
 
 
 ## BB
@@ -331,7 +345,7 @@ sudo apt install bb
 
 * <http://www.dejano.comunidades.net/programas-engracados-para-o-terminal-linux>
 
-* <https://diolinux.com.br/sistemas-operacionais/7-comandos-do-terminal-que-fazem-coisas-incriveis-no-linux.html>
+* <https://diolinux.com.br/sistemas-oppceracionais/7-comandos-do-terminal-que-fazem-coisas-incriveis-no-linux.html>
 
 * <https://sempreupdate.com.br/10-comandos-linux-interessantes-que-talvez-voce-nem-conhecia/>
 
