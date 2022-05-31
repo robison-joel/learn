@@ -1,4 +1,5 @@
 =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
+
 | TITULO..: Comandos do terminal Linux
 
 | CONTEUDO: Comandos engraçados e curiosos do Linux.
@@ -6,6 +7,7 @@
 | DATA....: 31/05/2022 - 17:00hs 
 
 | AUTOR...: Robison Joel - http://robison-joel.github.io
+
 =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 
 <a id="topo"></a>
