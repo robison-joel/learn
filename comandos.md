@@ -1,8 +1,15 @@
+=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
+| TITULO..: Comandos do terminal Linux
+| CONTEUDO: Comandos engraçados e curiosos do Linux.
+| DATA....: 31/05/2022 - 17:00hs 
+| AUTOR...: Robison Joel - http://robison-joel.github.io
+=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 
 <a id="topo"></a>
 # Comandos curiosos do linux
 
-### | MENU |
+
+=_=_=_=_= Comandos curiosos =_=_=_=_= 
 1. [Holywood](#hollywood)
 2. [Cmatrix](#cmatrix)
 3. [Fortune](#fortune)
@@ -16,6 +23,9 @@
 11. [Speak](#speak)
 12. [Figlet](#figlet)
 13. [Toilet](#toilet)
+=_=_= 
+
+
 
 <a id="hollywood"></a>
 
