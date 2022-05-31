@@ -271,20 +271,51 @@ Digite o comando seguido daquilo que vai ser escrito em Banner.
 [volta ao topo](#topo)
 
 
-----
+
 
 ## Toilet
 
-*`toilet "Hello Mundo"`*
+#### 3.1 O que faz?
 
-*`toilet --gay "Te amo"`*
+Escreve seu texto de uma forma bem estilosa em caracteres.
 
-*`toilet --metal "Hello Mundo"`*
+#### 3.2 Instalação
+
+*`toilet`*
+
+#### 3.3 Sintaxe
+
+Digite o comando seguido daquilo que vai ser escrito (entre aspas).
+
+`toilet "o que vai ser escrito"`
+
+#### Varia&ccedil;&oatilde;es
+
+*`toilet --gay "o que vai ser escrito"`*
+
+*`toilet --metal "o que vai ser escrito"`*
+
+
+[volta ao topo](#topo)
 
 
 ## Cal
 
-sudo apt install ncal
+#### 3.1 O que faz?
+
+Mostra um calendário do mês atual no terminal.
+
+#### 3.2 Instalação
+
+*`sudo apt-get install ncal`*
+
+#### 3.3 Sintaxe
+
+Apenas digite *`cal`*
+
+
+[volta ao topo](#topo)
+
 
 
 ## Aafire
