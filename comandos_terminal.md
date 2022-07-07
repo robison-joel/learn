@@ -46,4 +46,6 @@ ou
 
 `dpkg -l search_pattern`
 
-7. 
+7. Reseta as configuraçẽos de aparẽncia das bordas da Janela
+
+`dconf reset -f /`
