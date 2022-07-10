@@ -94,29 +94,6 @@ Lista de comandos por funcionalidade:
 
 ---
 
-<a id="controleacesso"></a>
-
-### Comandos de Controle e Acesso
-
-* `exit` - Terminar a sessão, ou seja, a shell (mais ajuda digitando man sh ou man csh)
-
-* `logout` - Des-logar, ou seja, terminar a sessão atual, mas apenas na C shell e na bash shell.
-
-* `passwd` - Mudar a password do nosso utilizador (usu&aacute;rio logado).
-
-* `rlogin` - Logar de forma segura em outro sistema Unix/Linux.
-
-* `ssh` - Sessão segura, vem de secure shell, e permite-nos logar num servidor remoto através do protocolo ssh.
-
-* `slogin` - Versão segura do rlogin.
-
-* `yppasswd` - Mudar a password do nosso utilizador nas p&aacute;ginas amarelas (yellow pages).
-
-[volta ao in&iacute;cio](#topo)
-
----
-
-
 <a id="comunicacao"></a>
 
 ### Comandos de Comunica&ccedil;&otilde;es
