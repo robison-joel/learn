@@ -46,6 +46,8 @@ Lista de comandos por funcionalidade:
 
 * [Comandos para manipular pacotes ".deb"](#pacotesdeb)
 
+---
+
 <a id="basicos"></a>
 
 ### Comandos B&aacute;sicos
