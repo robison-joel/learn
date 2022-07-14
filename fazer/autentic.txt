@@ -1,0 +1,10 @@
+####VPN
+Usuário: robison
+Senha: R0b1s0n*2022
+
+####Plataforma de Curso
+http://lms.4trust.com.br/
+usuário: robison
+senha: R0b1s0n*2022
+
+    Inicie pelo curso do pfSense.

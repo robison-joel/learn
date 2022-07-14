@@ -1,0 +1,19 @@
+ZF3R0-FHED2-M80TY-8QYGC-NPKYF --->> This key is 100% worked for me up to VM 16.1.1 build-17801498
+YF390-0HF8P-M81RQ-2DXQE-M2UT6
+ZF71R-DMX85-08DQY-8YMNC-PPHV8
+
+------------------------------------------------------------------------------------------------
+Updated on Nov 4, 2021: 
+ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+
+
+https://www.fasim.com.br/vmware-workstation-45678910111214-universal-license-keys-collection/
+
+https://sempreupdate.com.br/como-instalar-o-vmware-workstation-no-ubuntu-20-04-lts/
+
+
+git clone https://github.com/mkubecek/vmware-host-modules
+cd vmware-host-modules
+git checkout workstation-16.2.3
+sudo make ; sudo make install
+sudo modprobe -a vmw_vmci vmmon vmnet

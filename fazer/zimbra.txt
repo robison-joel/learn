@@ -1,0 +1,16 @@
+sudo wget https://files.zimbra.com/downloads/8.8.15_GA/zcs-8.8.15_GA_3869.UBUNTU18_64.20190918004220.tgz
+
+tar -xvzf zcs-8.8.15_GA_3869.UBUNTU18_64.20190918004220.tgz
+
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys F88F6D313016330404F710FC9A2FD067A2E3EF7B
+
+
+
+
+## FONTES:
+
+https://forums.zimbra.org/viewtopic.php?t=61557
+
+https://unix.stackexchange.com/questions/399027/gpg-keyserver-receive-failed-server-indicated-a-failure
+
+https://github.com/robison-joel/learn/blob/main/comandos_terminal.md

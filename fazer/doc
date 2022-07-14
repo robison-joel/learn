@@ -1,0 +1,1 @@
+sudo vim /etc/bind/named.conf.options

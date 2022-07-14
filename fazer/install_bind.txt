@@ -1,0 +1,14 @@
+    1  apt install -y bind9 bind9utils bind9-doc dnsutils -y
+    2  ufw status
+    3  apt update
+    4  # PASTA DE CONFIGURAÇÃO DO BIND9
+    5  #
+    6  cd /etc/bind
+    7  ls -la
+    8  ls -la > etc_binc.txt ; cat etc_bind.txt
+    9  ls -la > etc_binc.txt
+   10  cat etc_binc.txt 
+   11  rm etc_binc.txt 
+   12  cd /
+   13  cat /etc/passwd
+   14  history > /home/rjgs/install_bind.txt

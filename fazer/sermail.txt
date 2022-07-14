@@ -1,0 +1,51 @@
+https://www.youtube.com/watch?v=ozR7cDYFJsU
+
+1  sudo shutdown now
+    2  upd
+    3  sudo apt update
+    4  cat
+    5  cat /etc/netplan/00-installer-config.yaml
+    6  ls
+    7  cd /etc/netplan/
+    8  ls
+    9  cd /etc/netplan/
+   10  cat /etc/netplan/00-installer-config.yaml
+   11  exit
+   12  sudo su
+   13  sudo mkdir zimbra_app
+   14  wget https://files.zimbra.com/downloads/8.8.15_GA/zcs-8.8.15_GA_4179.UBUNTU20_64.20211118033954.tgz
+   15  tar -vzxf zcs-8.8.15_GA_4179.UBUNTU20_64.20211118033954.tgz
+   16  ls -la
+   17  mv zcs-8.8.15_GA_4179.UBUNTU20_64.20211118033954 zimbra_app/
+   18  sudo mv zcs-8.8.15_GA_4179.UBUNTU20_64.20211118033954 zimbra_app/
+   19  ls -la
+   20  rm zcs-8.8.15_GA_4179.UBUNTU20_64.20211118033954.tgz
+   21  ls -la
+   22  mv zimbra_app/ zimbra_server/
+   23  ls -la
+   24  cd zimbra_server/
+   25  ls -la
+   26  cd zcs-8.8.15_GA_4179.UBUNTU20_64.20211118033954/
+   27  ls -la
+   28  cat install.sh
+   29  sudo chmod +x install.sh
+   30  ./install.sh
+   31  sudo ./install.sh
+   32  ./install.sh
+   33  sudo ./install.sh
+   34  sudo shutdown now
+   35  clear
+   36  sudo su
+   37  sudo apt update ; apt list --upgradable ; sudo apt upgrade
+   38  sudo su
+   39  exit
+   40  ping srvrjgs
+   41  ping rjgs
+   42  ping 192.168.100100
+   43  ping 192.168.100.100
+   44  ping 192.168.100.200
+   45  df -h
+   46  df -h /
+   47  sudo su
+   48  sudo shutdown now
+   49  history > registrosmail.txt
