@@ -2,15 +2,12 @@
 
 ## romfs
 
-**R**ead **O**nly **M**emory **F**ile **S**istem: Sistema de arquivos somente leitura.
+**R**ead **O**nly **M**emory **F**ile **S**ystem
 
 ## efs
-
 **E**ncrypting **F**ile **S**istem: Sistema de arquivos com criptografia. Recurso podemos criptografar pastas e arquivos confidenciais. Só pode ser utilizado em sistemas de arquivos NTFS. 
 
 ## freevxfs
-
-**F**ree **V**eritas **F**ile **S**ystem: 
 
 ## isofs
 
@@ -19,6 +16,8 @@
 ## cramfs
 
 ## msdos
+
+**M**icro**s**oft **D**isk **O**Peracional **S**ystem
 
 ## vfat
 
@@ -31,6 +30,7 @@
 ## debugfs
 
 ## ramfs
+**R**ead **A**ccess **M**emory **F**ile **S**ystem
 
 ## hugetlbfs
 
