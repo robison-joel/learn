@@ -68,6 +68,8 @@ Lista de comandos por funcionalidade:
 
 * `vi` - Abre o editor vi (l&ecirc;-se viai) para editar/criar arquivos
 
+* ```echo $(date "+%d"/"%m"/"%Y"-"%H":"%m")``` - Imprime Data e hora no terminal.
+
 [volta ao in&iacute;cio](#topo)
 
 ---
