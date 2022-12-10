@@ -1,0 +1,78 @@
+apt update
+apt list --upgradable
+apt upgrade
+
+rm -f /etc/localtime
+ln -s /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime
+
+echo &(date +%d/%m/%y_-_%H:%M)
+vim .bashrc
+source .bashrc
+inlog
+vim .bashrc
+source .bashrc
+inlog
+inlog Instalando o IPCONFIG >> logs/log_wordpress.log 
+cat logs/log_wordpress.log 
+inlog #########################
+inlog ######################### >> logs/log_wordpress.log 
+cat logs/log_wordpress.log 
+inlog "#########################" >> logs/log_wordpress.log 
+cat logs/log_wordpress.log 
+vim .bashrc
+ls 
+ls logs/
+vim .bashrc
+source .bashrc
+vim .bashrc
+source .bashrc
+inlog "#########################" >> logs/log_wordpress.log 
+inlog Arquivo bashrc prolog
+inlog "Arquivo bashrc" prolog
+vim .bashrc 
+source .bashrc
+inlog "Arquivo bashrc" >> prolog
+inlog "#########################" >> prolog
+cat prolog
+cat logs/log_wordpress.log 
+apt install net-tools >> prolog
+ifconfig >> prolog
+cat prolog
+ifconfig >> prolog
+# Instalar a pilha LAMP
+# Instalar a pilha LAMP >> prolog 
+inlog Instalar a pilha LAMP
+inlog Instalar a pilha LAMP >> prolog 
+inlog ############################### >> prolog 
+inlog "###############################" >> prolog 
+inlog apt update >> prolog 
+apt update >> prolog 
+inlog "###############################" >> prolog 
+ifconfig >> prolog 
+inlog "Instalando o apache2" >> prolog
+sudo apt install apache2 -y >> prolog 
+# Setando permissões para a pasta do apache
+inlog "Setando permissões para a pasta host do apache" >> prolog 
+chown -R rjgs:rjgs /var/www/
+chmod -R 775 /var/www/
+ls -lha /var/www/
+cd /var/www/
+ls -la
+touch html/pics.txt
+# Setando ip fixo
+cp /etc/netplan/00-installer-config.yaml /etc/netplan/00-installer-config.yaml.bckp
+vim /etc/netplan/00-installer-config.yaml.bckp
+vim /etc/netplan/00-installer-config.yaml
+# Testa as cnfigurações de IP fixo
+netplan try
+vim /etc/netplan/00-installer-config.yaml
+netplan try
+netplan apply
+# Instalar o MySQL Database Server
+sudo apt install mysql-server >> prolog
+sudo apt install mysql-server
+mysql -u root
+cat history
+history
+shutdown now
+history > historico
