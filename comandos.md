@@ -28,6 +28,7 @@
 11. [Speak](#speak)
 12. [Figlet](#figlet)
 13. [Toilet](#toilet)
+14. [Alsamixer](#alsamixer)
 
 =_=_= 
 
@@ -369,6 +370,15 @@ Apenas digite *`bb`* e escolha se vai querer com m&uacute;sica (y) ou sem m&uacu
 
 [volta ao topo](#topo)
 
+
+
+## Alsamixer
+
+Mostra os controles de audio, como microfone e autofalantes.
+
+*alsamixer`*
+
+[volta ao topo](#topo)
 
 ## FONTES
 
