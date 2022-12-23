@@ -376,7 +376,7 @@ Apenas digite *`bb`* e escolha se vai querer com m&uacute;sica (y) ou sem m&uacu
 
 Mostra os controles de audio, como microfone e autofalantes.
 
-*alsamixer`*
+*`alsamixer`*
 
 [volta ao topo](#topo)
 
