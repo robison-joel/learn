@@ -2,7 +2,7 @@
 
 ## O que é?
 
-Comando que copia, em forma de síncrona, arquivos de uma pasta ou de um computador para o outro em rede.
+Comando que copia, em forma de síncrona, arquivos entre pastas locais ou em computadores em rede.
 
 ## Instalação
 
