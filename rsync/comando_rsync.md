@@ -8,7 +8,7 @@ Comando que copia, em forma de síncrona, arquivos entre pastas locais ou em com
 
 Abra seu terminal e digite o seguinte comando (inserindo a senha na sequência).
 
-```apt-get install rsync -y```
+```sudo apt-get install rsync -y```
 
 ## Exemplo de sintaxe:
 
